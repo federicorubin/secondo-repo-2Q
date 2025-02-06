@@ -9,9 +9,11 @@
 
 - [] check 1
 - [] check 2
+- 
 *Italico*
 _Italico_
 
 **Grassetto*
 _Grassetto_
+
 [Testo](https://) 
