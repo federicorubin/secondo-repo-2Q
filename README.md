@@ -7,8 +7,8 @@
 - punto primo
 - punto secondo
 
-- [] check 1
-- [] check 2
+- [ ] check 1
+- [ ] check 2
 - 
 *Italico*
 _Italico_
