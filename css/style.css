@@ -9,9 +9,12 @@ td img{
 td > a > img{
     width: 100px;
 }
+.flag{
+    width: 200px
+}
 
 img{
-    width: 200px;
+    width: 300px;
 }
 p{
     color:violet;
