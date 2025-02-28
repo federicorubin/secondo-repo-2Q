@@ -2,6 +2,9 @@
 
 /*regola di reset */
 
-img{
+td img{
     width: 100px;
+}
+img{
+    width: 200px;
 }
