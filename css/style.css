@@ -13,3 +13,14 @@ td > a > img{
 img{
     width: 200px;
 }
+p{
+    color:violet;
+}
+/*selettore per fratelli generici  */
+p~p{
+    color:blue;
+}
+/*selettore per fratelli adiacenti */
+p+p{
+    text-decoration: underline;
+}
