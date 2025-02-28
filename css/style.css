@@ -1,10 +1,15 @@
 /*Questo è un commento */
 
-/*regola di reset */
 
+/*selettore con discendenza */
 td img{
     width: 100px;
 }
+/*selettore con discendenza diretta */
+td > a > img{
+    width: 150px;
+}
+
 img{
     width: 200px;
 }
