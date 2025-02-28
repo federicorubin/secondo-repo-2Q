@@ -7,7 +7,7 @@ td img{
 }
 /*selettore con discendenza diretta */
 td > a > img{
-    width: 150px;
+    width: 100px;
 }
 
 img{
