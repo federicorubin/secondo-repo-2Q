@@ -1,0 +1,29 @@
+/*Questo è un commento */
+
+
+/*selettore con discendenza */
+td img{
+    width: 100px;
+}
+/*selettore con discendenza diretta */
+td > a > img{
+    width: 100px;
+}
+.flag{
+    width: 200px
+}
+
+img{
+    width: 300px;
+}
+p{
+    color:violet;
+}
+/*selettore per fratelli generici  */
+p~p{
+    color:blue;
+}
+/*selettore per fratelli adiacenti */
+p+p{
+    text-decoration: underline;
+}
